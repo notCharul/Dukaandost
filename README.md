@@ -9,6 +9,7 @@ DukaanDost is a chat assistant for a kirana store owner. It answers questions ab
 
 ## Project status (please read)
 **Only 3 of the 8 required tools are connected to the agent:**
+I will add them in FUTURE for Sure..
 
 | Tool | What it does | Status |
 |------|--------------|--------|
